@@ -35,7 +35,7 @@ export default function HomePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-card">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="font-heading text-3xl md:text-4xl font-bold text-card-foreground mb-4">Why Choose BASIT?</h2>
+            <h2 className="font-heading text-3xl md:text-4xl font-bold text-card-foreground mb-4">Why Choose RIZWAN?</h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
               We combine expertise, innovation, and dedication to deliver exceptional results for your business.
             </p>
